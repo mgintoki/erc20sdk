@@ -1,4 +1,4 @@
-package weelink_erc20sdk
+package erc20sdk
 
 import (
 	"github.com/mgintoki/erc20sdk/api/erc20client"
